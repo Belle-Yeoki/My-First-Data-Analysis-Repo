@@ -1,7 +1,7 @@
-#Project Name: My-First-Data-Analysis-Repo
+# Project Name: My-First-Data-Analysis-Repo
 
 ----------
-#project Objective: Project statement
+# project Objective: Project statement
 
 
 
@@ -9,15 +9,15 @@
 
 
 ------------
-#Data Sourcing
+# Data Sourcing
 
 
 
 -------
-#Data Transformation
+# Data Transformation
 
 
 
 
 -----
-#Findings & Recommendation
+# Findings & Recommendation
